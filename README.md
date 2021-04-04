@@ -1,13 +1,11 @@
-run docker-compose up -d
+docker-compose up -d
 
-open chat-graphql folder
+npm run dev
 
-run npm i
+sequelize db:migrate
 
-run npm run dev
 
-run sequelize db:migrate
 
 to change mysql data from terminal:
 
-run mysql -h 127.0.0.1 -u root -p
+mysql -h 127.0.0.1 -u root -p
