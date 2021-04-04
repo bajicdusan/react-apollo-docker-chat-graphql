@@ -1,10 +1,10 @@
 docker-compose up -d
 
-npm run dev
+npm i
 
 sequelize db:migrate
 
-
+npm run dev
 
 to change mysql data from terminal:
 
