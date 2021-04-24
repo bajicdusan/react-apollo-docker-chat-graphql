@@ -1,0 +1,11 @@
+$white: #f0f2f5;
+$blue: #166fe5;
+$green: #36a420;
+
+$border-radius: 6px;
+
+.justify-content-center {
+	border-radius: 8px;
+}
+
+@import '~bootstrap/scss/bootstrap.scss';
