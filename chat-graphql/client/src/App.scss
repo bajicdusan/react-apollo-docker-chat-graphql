@@ -1,0 +1,25 @@
+$white: #f0f2f5;
+$blue: #166fe5;
+$green: #36a420;
+
+$border-radius: 6px;
+
+.justify-content-center {
+	border-radius: 8px;
+}
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+// body {
+// 	min-height: 100vh;
+
+// 	background: linear-gradient(
+// 		203deg,
+// 		rgba(131, 58, 180, 0.9) 0%,
+// 		rgba(253, 23, 23, 0.9) 50%,
+// 		rgba(252, 176, 69, 0.9) 100%
+// 	);
+// }
+
+// fb white #F0F2F5
+// fb blue #166FE5
