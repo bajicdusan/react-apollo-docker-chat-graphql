@@ -4,6 +4,8 @@ npm i
 
 sequelize db:migrate
 
+sequelize db:seed:all
+
 npm run dev
 
 to change mysql data from terminal:
